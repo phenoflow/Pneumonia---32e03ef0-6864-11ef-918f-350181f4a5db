@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/pneumonia-streptococcu---undefined.py
+inputModule3:
+  class: File
+  path: python/bacterial-pneumonia---undefined.py
+inputModule4:
+  class: File
+  path: python/pneumonia-klebsiella---undefined.py
+inputModule5:
+  class: File
+  path: python/pneumonia-pseudomona---undefined.py
+inputModule6:
+  class: File
+  path: python/pneumonia-escherichia---undefined.py
+inputModule7:
+  class: File
+  path: python/pneumonia-specified---undefined.py
+inputModule8:
+  class: File
+  path: python/pneumonia-group---undefined.py
+inputModule9:
+  class: File
+  path: python/pneumonia-staphylococcu---undefined.py
+inputModule10:
+  class: File
+  path: python/susceptible-pneumonia---undefined.py
+inputModule11:
+  class: File
+  path: python/resistant-pneumonia---undefined.py
+inputModule12:
+  class: File
+  path: python/pneumonia---undefined.py
+inputModule13:
+  class: File
+  path: python/gramnegative-pneumonia---undefined.py
+inputModule14:
+  class: File
+  path: python/pneumonia-mycoplasma---undefined.py
+inputModule15:
+  class: File
+  path: python/pneumonia-hemophilus---undefined.py
+inputModule16:
+  class: File
+  path: python/pneumonia-aureu---undefined.py
+inputModule17:
+  class: File
+  path: python/pneumonia-organism---undefined.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
